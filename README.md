@@ -1,6 +1,5 @@
-#lambda-function
 
-#add maven plugin
+#Add maven plugin
 
 Group Id: org.apache.maven.plugins
 
